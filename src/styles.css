@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed&display=swap");
+.App {
+  font-family: Fira Sans Condensed;
+  text-align: center;
+  height: 100vh;
+}
+
+input {
+  padding: 1rem;
+  margin-bottom: 1rem;
+  width: 80%;
+}
+
+h2 {
+  color: #e02e17;
+  font-size: 1.7rem;
+}
